@@ -1,0 +1,11 @@
+/**
+ * This is terrible, I know. Eventually I'll make this nice and proper, but for
+ * now we're doing this, cause "FUCK IT, WE'RE GOING LIVE!"
+ */
+
+@media only screen and (max-width: 768px) {
+  .container {
+    width: 100%;
+    margin: initial;
+  }
+}
