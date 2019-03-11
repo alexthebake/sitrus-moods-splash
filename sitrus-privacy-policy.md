@@ -1,129 +1,95 @@
 # Privacy Policy
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-## What personal information do we collect from the people that visit our blog, website or app?
+Sitrus built the Sitrus Moods app as a Free app. This SERVICE is provided by Sitrus at no cost and is intended for use as is.
 
-When registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience. The only information which is required to use the site as a registered user is an email address, but it is not required that you verify this email address.
+This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
-## When do we collect information?
+If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-We collect information from you when you register on our site or enter information on our site. When you manually enter any information into the site or connect to another service via integrations, this information may be stored on sitrus.io's servers.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Sitrus Moods unless otherwise defined in this Privacy Policy.
 
+**Information Collection and Use**
 
-## How do we use your information?
+While using our service no personally identifiable information (PII) is collected.
 
-We may use the information we collect from you when you register, sign up for a newsletter, respond to a survey or marketing communication, or use certain other site features in the following ways:
+* No registration is required to use the app.
+* All data is hosted locally on the phone.
+* The app makes no network connections and no data is sent off the user's phone.
 
- * To personalize your experience and to allow us to deliver the type of content in which you are most interested.
- * To quickly process your transactions.
- * Core site functionality related to processing and displaying data you have volunteered to the site, via manually entering the data or via integrations with another service.
+The app does not use any third party services beyond Google Play Services that collect information used to identify you.
 
-## How do we protect your information?
+Links to the privacy policies of third party service providers used by the app:
 
-We do not use vulnerability scanning and/or scanning to PCI standards.
-We only provide articles and information. We never ask for credit card numbers.
+* [Google Play Services](https://www.google.com/policies/privacy/)
 
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all information you supply is encrypted via Secure Socket Layer (SSL) technology.
+**Cookies**
 
-We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-## Do we use 'cookies'?
+This Service does not use “cookies”. No cookies will be created or stored on the user's device.
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process your login or authentication information. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+**Service Providers**
 
-We use cookies to:
- * Understand and save user's preferences for future visits.
- * Expedite user login and authentication.
+We may employ third-party companies and individuals due to the following reasons:
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies.
+*   To facilitate our Service;
+*   To provide the Service on our behalf;
+*   To perform Service-related services; or
+*   To assist us in analyzing how our Service is used.
 
-If you turn cookies off, some of the features that make your site experience more efficient may not function properly; namely, login information must be manually entered each time you visit the site.
+These third parties do not have access to any of the user's personal information or data. 
 
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information. We will not sell, trade, or transfer to outside parties anonymized data.
 
-## Third-party disclosure
+**Security**
 
-We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information. We will never do so. We will not sell, trade, or transfer to outside parties anonymized data.
+Sitrus strives to use commercially acceptable means of protecting the user and their data.
+However no method of electronic storage or transmission over the internet is 100% secure and reliable, and we cannot guarantee its absolute security.
 
-## Third-party links
+Because users do not need to register to use the app and no information is collected off the user's phone, our servers do not haave any of the user's data. We do not collect credit card numbers.
 
-We do not include or offer third-party products or services on our website.
+**Links to Other Sites**
 
-## California Online Privacy Protection Act
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
-
-According to CalOPPA, we agree to the following:
-Users can visit our site anonymously.
-Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.
-Our Privacy Policy link includes the word 'Privacy' and can easily be found on the page specified above.
-
-You will be notified of any Privacy Policy changes:
- * On our Privacy Policy Page
-Can change your personal information:
- * By logging in to your account
-
-## How does our site handle Do Not Track signals?
-We honor Do Not Track signals and Do Not Track or plant cookies when a Do Not Track (DNT) browser mechanism is in place.
-
-## Does our site allow third-party behavioral tracking?
-No.
-
-## COPPA (Children Online Privacy Protection Act)
+**COPPA (Children Online Privacy Protection Act) and Children's Privacy**
 
 When it comes to the collection of personal information from children under the age of 13 years old, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States' consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
 
 We do not specifically market to children under the age of 13 years old.
 
-### Do we let third-parties, including ad networks or plug-ins collect PII from children under 13?
-No.
+This Services does not address anyone under the age of 13\. We do not knowingly collect personally identifiable information from children under 13\. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
 
-## Fair Information Practices
+**California Online Privacy Protection Act**
 
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
 
-In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
-We will notify you via email
- * Within 1 business day of the discovery of the data breach.
-We will notify the users via in-site notification
- * Within 1 business day of the discovery of the data breach.
+According to CalOPPA, we agree to the following: Users can visit our site anonymously. Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website. Our Privacy Policy link includes the word 'Privacy' and can easily be found on the page specified above.
 
-We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+You will be notified of any Privacy Policy changes:
 
-## CAN SPAM Act
+* On our Privacy Policy Page
 
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+**Changes to This Privacy Policy**
 
-We collect your email address in order to:
- * Send information, respond to inquiries, and/or other requests or questions
- * Set up login or authentication requirements for using a personalized account on the site
- * In the future, we may send a newsletter to users who opt-in
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
-To be in accordance with CANSPAM, we agree to the following:
- * Not use false or misleading subjects or email addresses.
- * Identify the message as an advertisement in some reasonable way.
- * Include the physical address of our business or site headquarters.
- * Monitor third-party email marketing services for compliance, if one is used.
- * Honor opt-out/unsubscribe requests quickly.
- * Allow users to unsubscribe by using the link at the bottom of each email.
+**Contact Us**
 
-If at any time you would like to unsubscribe from receiving future emails, you can email us at
- * Follow the instructions at the bottom of each email.
-and we will promptly remove you from ALL correspondence.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
 
+We can be reached via email at `sitrus.help@gmail.com`.
 
-## Contacting Us
+Mailing address:
 
-If there are any questions regarding this privacy policy, you may contact us using the information below.
+```
+Sitrus
+640 Post Street
+Apt 602
+San Francisco, CA 94109
+USA
+```
 
-Visit us at:
-sitrus.io
+**Other**
 
-Email us at:
-sitrus-help@gmail.com
-
-Write to us at:
-640 Post Street, #602
-San Francisco, California 94109
-United States
-
-Last Edited on 2019-03-05
+This privacy policy was templated from [privacypolicytemplate.net](https://privacypolicytemplate.net) and generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/), then modified by Sitrus to fit the particular situation of the _Sitrus Moods_ app.
