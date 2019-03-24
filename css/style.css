@@ -285,3 +285,7 @@ body {
 .hero__content--right {
   text-align: right;
 }
+
+.swiping-is-cool {
+  height: 300px;
+}
