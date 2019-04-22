@@ -289,3 +289,20 @@ body {
 .swiping-is-cool {
   height: 300px;
 }
+
+/**
+ * App Store Buttons
+ */
+
+.app-store-btn {
+  display: inline-block;
+  overflow: hidden;
+  background: url(https://linkmaker.itunes.apple.com/en-gb/badge-lrg.svg?releaseDate=2019-04-11&kind=iossoftware&bubble=ios_apps) no-repeat;
+  width: 135px;
+  height: 40px;
+}
+
+.play-store-btn > img {
+  width: 155px;
+  margin: -10px;
+}
