@@ -144,6 +144,17 @@ body {
 .footer__nav__item:hover {
   border-bottom: 1px solid white;
 }
+.footer__text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-decoration: none;
+  margin: 4px;
+  padding: 8px;
+  border-bottom: 1px solid transparent;
+  transition: border-bottom 150ms ease-out;
+}
 
 .button {
   font-size: 1rem;
